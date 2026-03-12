@@ -5,7 +5,7 @@
 1. We have a source code
 2. Preprocessing
 3. Compilation
-4. Assembly
+4. Assembler
 5. Linking
 6. Creating the executable
 
